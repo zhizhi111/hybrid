@@ -1,4 +1,4 @@
-# HybridPrompt: A Topic, Sample and Attribute-aware Hybrid Prompt Framework for Visual Question Answering
+# HybridPrompt: Bridging Language Models and Human Priors in Prompt Tuning for Visual Question Answering
 
 Some code in this repo are copied/modified from opensource implementations made available by
 [PyTorch](https://github.com/pytorch/pytorch),

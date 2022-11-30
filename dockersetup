@@ -1,0 +1,10 @@
+#加入docker组，需要管理员权限
+sudo vim /etc/group
+在docker那行加入对应的用户名
+：wq
+
+lauch  进入docker环境
+nohup 代码 > 重定向文件名 &
+chmod 777 重定向文件
+ctrl p q 退出docker
+tail -f 重定向文件
